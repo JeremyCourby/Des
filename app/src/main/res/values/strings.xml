@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Des</string>
+    <string-array name="des">
+        <item>Dés 4 faces</item>
+        <item>Dés 6 faces</item>
+        <item>Dés 8 faces</item>
+        <item>Dés 10 faces</item>
+        <item>Dés 12 faces</item>
+        <item>Dés 20 faces</item>
+    </string-array>
+    <string-array name="nbdes">
+        <item>1 dés</item>
+        <item>2 dés</item>
+        <item>3 dés</item>
+        <item>4 dés</item>
+        <item>5 dés</item>
+    </string-array>
 </resources>
